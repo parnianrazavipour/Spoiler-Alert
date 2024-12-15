@@ -2,7 +2,7 @@
 Final project for the NLP course in Spring 2024 at the Computer Engineering Department, Sharif University of Technology, under the supervision of Dr. Asgari.
 
 ### Disclaimer
-I cloned the project from the original repository and made some changes to the code and the README file. The original repository can be found [here](https://github.com/parnianrazavipour/Introduction-to-Bioinformatics-project/tree/main) which is currently Private.
+I cloned the project from the original repository and made some changes to the code and the README file. The original repository can be found [here](https://github.com/NLP-Final-Projects/Spoiler-Alert) which was previously Private.
 The work is done by our team and I was allowed to use the code and the README file for my own repository.
 
 # Project Overview
